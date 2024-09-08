@@ -85,6 +85,7 @@ section button:hover {
 .item-resultado h2 {
     font-size: 1.5rem;
     color: #222831;
+    margin: 0;
 }
 
 .item-resultado a {
