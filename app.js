@@ -2,7 +2,7 @@ function pesquisar() {
     let section = document.getElementById("resultados-pesquisa");
     let campoPesquisa = document.getElementById("campo-pesquisa").value;
     if(!campoPesquisa) {
-        section.innerHTML = "<p class=nao-encontrado>Nada foi encontrado. Você precisa digitar o nome de um jogo ou estudio</p>"
+        section.innerHTML = "<p class=nao-encontrado>Nada foi encontrado. Você precisa digitar o nome de um jogo ou estúdio</p>"
         return;
     }
     campoPesquisa = campoPesquisa.toLowerCase();
