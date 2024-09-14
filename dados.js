@@ -27,7 +27,7 @@ let jogos = [
         nome: "Dandy Ace",
         estudio: "Mad Mimic",
         descricao: "Dandy Ace é um roguelike com uma experiência de combate dinâmico e extravagante que segue um mágico fabuloso buscando combinar e usar suas cartas mágicas enquanto luta e saqueia para derrotar o Ilusionista de olhos verdes, Lele, que o aprisionou em um espelho amaldiçoado. Enquanto batalha pelo palácio que sempre muda de Lele, combine diferentes cartas com mais de mil possibilidades, cada uma com seus próprios estilos de jogo e poderes. Cada partida oferece novos desafios e combinações para os jogadores explorarem à medida que chegam mais perto de Lele.",
-        imagem: "imagens/dandy.jpg",
+        imagem: "imagens/dandy-ace.jpg",
         link: "https://store.steampowered.com/app/1037130/Dandy_Ace/",
         tags: "ação isométrico"
     },
