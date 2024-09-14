@@ -1,5 +1,5 @@
 ## Jogos indies brasileiros
-Este projeto desenvolvido na Imersão dev com Google Gemini feito apenas com HTML, CSS e JavaScript.
+Este projeto desenvolvido na Imersão dev da Alura com Google Gemini feito apenas com HTML, CSS e JavaScript.
 
 <img src="imagens/home.png"/>
 
